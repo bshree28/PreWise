@@ -1,0 +1,7 @@
+{
+  "name": "PrepWise",
+  "description": "A smart kitchen assistant that uses Gemini vision to identify ingredients and generate personalized recipes with AR-inspired visual feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
